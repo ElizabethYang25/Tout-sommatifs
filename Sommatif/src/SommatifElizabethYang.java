@@ -21,7 +21,7 @@ public class SommatifElizabethYang // changer le nom de la classe a SommatifEliz
 			 {
 				
 				 String message="Bonjour mon ami" + nom; // enlever le point-virgule (;) du ligne 20
-				 return nom;
+				 return nom; 
 			 }
 		 	
 	}

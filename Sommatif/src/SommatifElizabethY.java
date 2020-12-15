@@ -11,7 +11,7 @@ public class SommatifElizabethY
 		public static void main(String[] args)
 			{
 
-		        int [] monTab=new int[100]; 
+		        int [] monTab=new int[100];
 		        System.out.println(calculerSomme(monTab));
 
 		        for(int i=0;i<100;i++)
